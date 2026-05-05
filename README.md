@@ -16,7 +16,7 @@ I developed cool features for exampe:
 ## Installation & Setup
 
 **Clone the repository:**
-   git clone [https://github.com/YOUR_USERNAME/Monster-Invasion-Arcade.git](https://github.com/PaulBern/Monster-Invasion-Arcade.git)
+   git clone [https://github.com/PaulBern/Monster-Invasion-Arcade.git](https://github.com/PaulBern/Monster-Invasion-Arcade.git)
    cd Monster-Invasion-Arcade
 
     Install Dependencies:
