@@ -1,9 +1,7 @@
 # Monster-Invasion-Arcade-Game
 A Python-based arcade game featuring Pygame, robots, and various weapons.
 
-# Monster Invasion Arcade 
-
-A fast-paced top-down arcade shooter built with Python and Pygame. Survive waves of invading robots, collect strategic loot, and master different weapon types to achieve the high score!
+Monster-Invasion is a fast-paced top-down arcade shooter built with Python and Pygame. Survive waves of invading robots, collect strategic loot, and master different weapon types to achieve the high score!
 
 ## Background & Features
 This project is slightly optimizated version of my final submission for the **University of Helsinki's MOOC.fi Advanced Course in Programming**. 
